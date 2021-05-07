@@ -8,6 +8,11 @@
 /*--VAR-*/
 $font-main: 'Open Sans', sans-serif;
 
+@mixin max-screen($res) {
+  @media screen and (max-width: $res) {
+    @content;
+  }
+}
 
 /*------------------------------------*/
 header {
@@ -34,6 +39,11 @@ header {
         color: #49cbcd;
         background-color: #f8f9fb;
         border-bottom: 3px #49cbcd solid;
+      }
+    }
+    @include max-screen(992px) {
+      .nav-link {
+        padding: 15px 15px;
       }
     }
   }

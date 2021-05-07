@@ -25,6 +25,9 @@ header {
     color: #49cbcd;
     background-color: #f8f9fb;
     border-bottom: 3px #49cbcd solid; }
+@media screen and (max-width: 992px) {
+  .navbar-nav .nav-item .nav-link {
+    padding: 15px 15px; } }
 
 /*------------------------------------*/
 .main {
