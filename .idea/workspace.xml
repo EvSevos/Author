@@ -2,12 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd31b170-4fcc-4079-bb83-6ae22fe65e18" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-grid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/logo_03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/bootstrap.min.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/.sass-cache/07dde2bd2afefc75c042d579bf0bfe0eeb5a4cae/style.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/css/.sass-cache/07dde2bd2afefc75c042d579bf0bfe0eeb5a4cae/style.scssc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
@@ -28,9 +22,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
         <option value="SCSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -48,14 +42,14 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="C:/Ruby26-x64/bin/scss.bat" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/js" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Женя\LEMON\Author\css" />
       <recent name="D:\Женя\LEMON\Author\js" />
+      <recent name="D:\Женя\LEMON\Author\css" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -70,7 +64,7 @@
       <updated>1620366518320</updated>
       <workItem from="1620366519883" duration="3324000" />
       <workItem from="1620369912644" duration="9691000" />
-      <workItem from="1620382674904" duration="4511000" />
+      <workItem from="1620382674904" duration="12882000" />
     </task>
     <task id="LOCAL-00001" summary="create new project">
       <created>1620370737703</created>
@@ -79,7 +73,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620370737703</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add header">
+      <created>1620387271643</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1620387271644</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,9 +88,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="create new project" />
-    <option name="LAST_COMMIT_MESSAGE" value="create new project" />
+    <MESSAGE value="add header" />
+    <option name="LAST_COMMIT_MESSAGE" value="add header" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="275" y="25" key="#Intentions" timestamp="1620388641859">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="25" key="#Intentions/0.0.1366.728@0.0.1366.728" timestamp="1620388641859" />
     <state x="137" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1620369858643">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -98,10 +104,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="441" y="174" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1620378836702" />
-    <state x="303" y="63" key="CommitChangelistDialog2" timestamp="1620370735809">
+    <state x="303" y="63" key="CommitChangelistDialog2" timestamp="1620387268416">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="303" y="63" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1620370735809" />
+    <state x="303" y="63" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1620387268416" />
     <state x="322" y="164" key="EditFileWatcherDialog" timestamp="1620379223564">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -114,9 +120,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="186" y="10" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1620379228683" />
-    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1620370740002">
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1620387274079">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1620370740002" />
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1620387274079" />
   </component>
 </project>

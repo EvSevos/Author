@@ -2,15 +2,14 @@
 @import "bootstrap-grid.min.css";
 @import "bootstrap.min.css";
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+@import "owl.carousel.min.css";
+@import "owl.theme.default.min.css";
 
 /*--VAR-*/
 $font-main: 'Open Sans', sans-serif;
 
 
-body {
-  background-color: chartreuse;
-}
-
+/*------------------------------------*/
 header {
   background-color: white;
   padding: 0 15px;
@@ -35,7 +34,90 @@ header {
         color: #49cbcd;
         background-color: #f8f9fb;
         border-bottom: 3px #49cbcd solid;
+      }
+    }
+  }
+}
 
+/*------------------------------------*/
+.main {
+  background-image: url('../images/bg_main_02.png');
+  background-size: cover;
+  padding: 144px 15px;
+
+  h1 {
+    font-size: 48px;
+    color: #ffffff;
+    font-family: $font-main;
+    margin-bottom: 44px;
+  }
+
+  p {
+    font-size: 16px;
+    color: #ffffff;
+    font-family: $font-main;
+    margin-bottom: 62px;
+  }
+
+  a {
+    display: inline-block;
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: 600;
+    font-family: $font-main;
+    padding: 20px 44px;
+    border: solid 3px #ffffff;
+    border-radius: 7px;
+    text-decoration: none;
+    letter-spacing: 3px;
+
+    &:hover {
+      color: #49cbcd;
+      border: solid 3px #ffffff;
+      background-color: #ffffff;
+    }
+  }
+
+  .owl-nav {
+    .owl-prev {
+      position: absolute;
+      left: 20px;
+      top: 15%;
+      width: 40px;
+      height: 40px;
+      outline: none;
+      background-color: #ffffff !important;
+      border-radius: 50%;
+
+      &:after {
+        display: block;
+        content: "\f053";
+        font-size: 24px;
+        font-family: "Font Awesome 5 Free";
+        font-weight: 900;
+        color: #49cbcd;
+        padding-right: 3px;
+      }
+
+    }
+    .owl-next {
+      position: absolute;
+      right: 20px;
+      top: 15%;
+      width: 40px;
+      height: 40px;
+      outline: none;
+      background-color: #ffffff !important;
+      border-radius: 50%;
+
+      &:after {
+        display: block;
+        content: "\f054";
+        font-size: 24px;
+        font-family: "Font Awesome 5 Free";
+        font-weight: 900;
+        color: #49cbcd;
+        padding-left: 3px;
       }
 
     }
