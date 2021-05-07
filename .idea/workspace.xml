@@ -64,7 +64,7 @@
       <updated>1620366518320</updated>
       <workItem from="1620366519883" duration="3324000" />
       <workItem from="1620369912644" duration="9691000" />
-      <workItem from="1620382674904" duration="14442000" />
+      <workItem from="1620382674904" duration="16174000" />
     </task>
     <task id="LOCAL-00001" summary="create new project">
       <created>1620370737703</created>
@@ -87,7 +87,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620395705952</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="change menu for mobile">
+      <created>1620397266314</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1620397266315</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,7 +104,8 @@
     <MESSAGE value="create new project" />
     <MESSAGE value="add header" />
     <MESSAGE value="add section main" />
-    <option name="LAST_COMMIT_MESSAGE" value="add section main" />
+    <MESSAGE value="change menu for mobile" />
+    <option name="LAST_COMMIT_MESSAGE" value="change menu for mobile" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="25" key="#Intentions" timestamp="1620388641859">
@@ -112,10 +120,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="441" y="174" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1620378836702" />
-    <state x="303" y="63" key="CommitChangelistDialog2" timestamp="1620395704015">
+    <state x="303" y="63" key="CommitChangelistDialog2" timestamp="1620397264647">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="303" y="63" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1620395704015" />
+    <state x="303" y="63" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1620397264647" />
     <state x="322" y="164" key="EditFileWatcherDialog" timestamp="1620379223564">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -128,9 +136,13 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="186" y="10" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1620379228683" />
-    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1620395708008">
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1620397269754">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1620395708008" />
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1620397269754" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1620397510429">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1620397510429" />
   </component>
 </project>

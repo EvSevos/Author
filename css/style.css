@@ -43,7 +43,8 @@ header {
     font-size: 16px;
     color: #ffffff;
     font-family: "Open Sans", sans-serif;
-    margin-bottom: 62px; }
+    margin: 0 auto 62px;
+    width: 30%; }
   .main a {
     display: inline-block;
     color: #ffffff;
