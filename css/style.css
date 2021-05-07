@@ -1,6 +1,29 @@
-* {
-  padding: 0;
-  margin: 0;
-  box-sizing: border-box; }
+@import url(bootstrap-reboot.min.css);
+@import url(bootstrap-grid.min.css);
+@import url(bootstrap.min.css);
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap");
+/*--VAR-*/
+body {
+  background-color: chartreuse; }
+
+header {
+  background-color: white;
+  padding: 0 15px;
+  width: 100%; }
+
+.navbar {
+  padding: 0 15px; }
+
+.navbar-nav .nav-item .nav-link {
+  margin-left: 15px;
+  color: #484c55;
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+  padding: 44px 20px;
+  border-bottom: 3px transparent solid; }
+  .navbar-nav .nav-item .nav-link:hover, .navbar-nav .nav-item .nav-link .active {
+    color: #49cbcd;
+    background-color: #f8f9fb;
+    border-bottom: 3px #49cbcd solid; }
 
 /*# sourceMappingURL=style.css.map */

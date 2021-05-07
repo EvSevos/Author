@@ -2,13 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd31b170-4fcc-4079-bb83-6ae22fe65e18" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/.sass-cache/07dde2bd2afefc75c042d579bf0bfe0eeb5a4cae/style.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/style.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/style.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/.sass-cache/07dde2bd2afefc75c042d579bf0bfe0eeb5a4cae/style.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/css/.sass-cache/07dde2bd2afefc75c042d579bf0bfe0eeb5a4cae/style.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,9 +48,15 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="C:/Ruby26-x64/bin/scss.bat" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Женя\LEMON\Author\css" />
+      <recent name="D:\Женя\LEMON\Author\js" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -58,29 +69,54 @@
       <option name="presentableId" value="Default" />
       <updated>1620366518320</updated>
       <workItem from="1620366519883" duration="3324000" />
-      <workItem from="1620369912644" duration="776000" />
+      <workItem from="1620369912644" duration="9691000" />
+      <workItem from="1620382674904" duration="4511000" />
     </task>
+    <task id="LOCAL-00001" summary="create new project">
+      <created>1620370737703</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1620370737703</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="create new project" />
+    <option name="LAST_COMMIT_MESSAGE" value="create new project" />
   </component>
   <component name="WindowStateProjectService">
     <state x="137" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1620369858643">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="137" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1620369858643" />
-    <state x="322" y="164" key="EditFileWatcherDialog" timestamp="1620367123684">
+    <state x="441" y="174" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1620378836702">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="322" y="164" key="EditFileWatcherDialog/0.0.1366.728@0.0.1366.728" timestamp="1620367123684" />
-    <state x="463" y="122" key="FileChooserDialogImpl" timestamp="1620368927581">
+    <state x="441" y="174" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1620378836702" />
+    <state x="303" y="63" key="CommitChangelistDialog2" timestamp="1620370735809">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1620368927581" />
-    <state x="186" y="10" key="SettingsEditor" timestamp="1620367124789">
+    <state x="303" y="63" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1620370735809" />
+    <state x="322" y="164" key="EditFileWatcherDialog" timestamp="1620379223564">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="186" y="10" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1620367124789" />
+    <state x="322" y="164" key="EditFileWatcherDialog/0.0.1366.728@0.0.1366.728" timestamp="1620379223564" />
+    <state x="463" y="122" key="FileChooserDialogImpl" timestamp="1620379219248">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1620379219248" />
+    <state x="186" y="10" key="SettingsEditor" timestamp="1620379228683">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="186" y="10" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1620379228683" />
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1620370740002">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1620370740002" />
   </component>
 </project>
