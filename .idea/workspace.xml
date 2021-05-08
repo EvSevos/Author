@@ -2,6 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd31b170-4fcc-4079-bb83-6ae22fe65e18" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Author.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/Aleksey.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/.sass-cache/07dde2bd2afefc75c042d579bf0bfe0eeb5a4cae/style.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/css/.sass-cache/07dde2bd2afefc75c042d579bf0bfe0eeb5a4cae/style.scssc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
@@ -42,7 +48,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/js" />
+    <property name="last_opened_file_path" value="C:/Ruby26-x64/bin/scss.bat" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
   </component>
@@ -64,7 +70,8 @@
       <updated>1620366518320</updated>
       <workItem from="1620366519883" duration="3324000" />
       <workItem from="1620369912644" duration="9691000" />
-      <workItem from="1620382674904" duration="16174000" />
+      <workItem from="1620382674904" duration="16818000" />
+      <workItem from="1620496350480" duration="10644000" />
     </task>
     <task id="LOCAL-00001" summary="create new project">
       <created>1620370737703</created>
@@ -94,7 +101,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620397266315</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="добавление под адаптив">
+      <created>1620399989500</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1620399989500</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,7 +119,8 @@
     <MESSAGE value="add header" />
     <MESSAGE value="add section main" />
     <MESSAGE value="change menu for mobile" />
-    <option name="LAST_COMMIT_MESSAGE" value="change menu for mobile" />
+    <MESSAGE value="добавление под адаптив" />
+    <option name="LAST_COMMIT_MESSAGE" value="добавление под адаптив" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="25" key="#Intentions" timestamp="1620388641859">
@@ -120,26 +135,30 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="441" y="174" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1620378836702" />
-    <state x="303" y="63" key="CommitChangelistDialog2" timestamp="1620397264647">
+    <state x="303" y="63" key="CommitChangelistDialog2" timestamp="1620399987941">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="303" y="63" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1620397264647" />
-    <state x="322" y="164" key="EditFileWatcherDialog" timestamp="1620379223564">
+    <state x="303" y="63" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1620399987941" />
+    <state x="322" y="164" key="EditFileWatcherDialog" timestamp="1620498901225">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="322" y="164" key="EditFileWatcherDialog/0.0.1366.728@0.0.1366.728" timestamp="1620379223564" />
-    <state x="463" y="122" key="FileChooserDialogImpl" timestamp="1620379219248">
+    <state x="322" y="164" key="EditFileWatcherDialog/0.0.1366.728@0.0.1366.728" timestamp="1620498901225" />
+    <state x="463" y="122" key="FileChooserDialogImpl" timestamp="1620498898710">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1620379219248" />
-    <state x="186" y="10" key="SettingsEditor" timestamp="1620379228683">
+    <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1620498898710" />
+    <state x="186" y="10" key="SettingsEditor" timestamp="1620498904063">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="186" y="10" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1620379228683" />
-    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1620397269754">
+    <state x="186" y="10" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1620498904063" />
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1620399993049">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1620397269754" />
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1620399993049" />
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1620496402821">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1620496402821" />
     <state x="339" y="162" key="run.anything.popup" timestamp="1620397510429">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

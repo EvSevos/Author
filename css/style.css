@@ -93,6 +93,55 @@ header {
       font-family: "Font Awesome 5 Free";
       font-weight: 900;
       color: #49cbcd;
-      padding-left: 3px; }
+      padding-left: 3px;
+      margin-bottom: 142px; }
+
+/*------------------------------------*/
+.team {
+  padding: 110px 15px 0; }
+  .team h2 {
+    color: #4e525d;
+    font-size: 42px;
+    font-family: "Open Sans", sans-serif;
+    margin-bottom: 110px; }
+  .team .person {
+    position: relative;
+    height: 200px;
+    width: 200px;
+    margin: 0 auto 74px;
+    z-index: 2; }
+    .team .person svg {
+      height: 100%;
+      width: 100%;
+      border-radius: 50%;
+      fill: #eeeef0; }
+    .team .person .overlap {
+      width: 42px;
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      margin-left: -21px;
+      margin-top: -21px;
+      visibility: hidden;
+      z-index: 1; }
+      .team .person .overlap img {
+        display: block;
+        width: 100%; }
+    .team .person:hover .overlap {
+      visibility: visible; }
+  .team h3 {
+    color: #4e525d;
+    font-size: 22px;
+    font-family: "Open Sans", sans-serif;
+    margin-bottom: 16px; }
+  .team p {
+    color: #4e525d;
+    font-size: 14px;
+    font-family: "Open Sans", sans-serif;
+    margin-bottom: 34px; }
+    .team p:nth-of-type(2) {
+      margin-bottom: 110px; }
+
+/*------------------------------------*/
 
 /*# sourceMappingURL=style.css.map */
