@@ -42,7 +42,7 @@
                         <a class="nav-link" href="#">Blog</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Contact</a>
+                        <a class="nav-link" href="#contact">Contact</a>
                     </li>
                 </ul>
             </div>
@@ -205,11 +205,11 @@
     </div>
 </section>
 <!-------------Five section---------------------->
-<section class="contact">
+<section class="contact" id="contact">
     <div class="container">
         <h2 class="text-center">Contact Us</h2>
         <div class="row justify-content-between">
-            <div class="contact-soc col-sm-5 text-left">
+            <div class="contact-soc col-md-5 text-left">
                 <h4>Get in touch with us</h4>
                 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's </p>
                 <a href="https://www.facebook.com/" title="facebook" target="_blank"></a>
@@ -219,18 +219,21 @@
                 <p>+XX-XXXX - XXXX - XX</p>
                 <p>info@mail.com</p>
             </div>
-            <div class="forms col-sm-6">
+            <div class="forms col-md-6">
                 <form method="post" action="#" >
                     <div class="row">
-                        <div class="col-lg-6 col-ms-12">
+                        <div class="col-lg-6 col-md-12">
                             <input type="text" name="Name" class="form-control" placeholder="Name" >
                         </div>
-                        <div class="col-lg-6 col-ms-12">
+                        <div class="col-lg-6 col-md-12">
                             <input type="email" name="Email" class="form-control" placeholder="Email">
                         </div>
                     </div>
                     <div class="row">
-                        <textarea class="col-sm-12 col-xs-12"name="Coment" placeholder="Message"></textarea>
+                        <textarea class="col form-control" name="Coment" placeholder="Message"></textarea>
+                    </div>
+                    <div class="row justify-content-end">
+                    <button type="submit"> Send</button>
                     </div>
                 </form>
 
