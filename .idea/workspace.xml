@@ -3,10 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="71dc7d44-f4fc-407a-80c5-bcfa40cbff85" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/.sass-cache/07dde2bd2afefc75c042d579bf0bfe0eeb5a4cae/style.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/css/.sass-cache/07dde2bd2afefc75c042d579bf0bfe0eeb5a4cae/style.scssc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +40,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1620627950048</updated>
-      <workItem from="1620627951763" duration="13294000" />
+      <workItem from="1620627951763" duration="14111000" />
     </task>
     <task id="LOCAL-00001" summary="add contacts">
       <created>1620635825987</created>
@@ -53,7 +49,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620635825987</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="change contacts">
+      <created>1620671327989</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1620671327989</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -61,13 +64,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add contacts" />
-    <option name="LAST_COMMIT_MESSAGE" value="add contacts" />
+    <MESSAGE value="change contacts" />
+    <option name="LAST_COMMIT_MESSAGE" value="change contacts" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="303" y="62" key="CommitChangelistDialog2" timestamp="1620635823554">
+    <state x="303" y="62" key="CommitChangelistDialog2" timestamp="1620671326211">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="303" y="62" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1620635823554" />
+    <state x="303" y="62" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1620671326211" />
     <state x="322" y="163" key="EditFileWatcherDialog" timestamp="1620634252440">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -80,10 +84,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="186" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1620634253228" />
-    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1620635828040">
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1620671329474">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1620635828040" />
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1620671329474" />
     <state x="339" y="162" key="run.anything.popup" timestamp="1620667596764">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
