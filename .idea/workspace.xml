@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0683c280-9cf5-42f1-9f21-c28298f3af70" name="Default Changelist" comment="">
+    <list default="true" id="71dc7d44-f4fc-407a-80c5-bcfa40cbff85" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/.sass-cache/07dde2bd2afefc75c042d579bf0bfe0eeb5a4cae/style.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/css/.sass-cache/07dde2bd2afefc75c042d579bf0bfe0eeb5a4cae/style.scssc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/debug.log" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,7 +23,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1sJ9UxDXLg2utOV3RbxUFhOSVQ5" />
+  <component name="ProjectId" id="1sKj0JHjFVXsaweel3VNXdb9RjU" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -39,13 +40,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0683c280-9cf5-42f1-9f21-c28298f3af70" name="Default Changelist" comment="" />
-      <created>1620579844497</created>
+      <changelist id="71dc7d44-f4fc-407a-80c5-bcfa40cbff85" name="Default Changelist" comment="" />
+      <created>1620627950048</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1620579844497</updated>
-      <workItem from="1620579846411" duration="1758000" />
-      <workItem from="1620581789364" duration="10608000" />
+      <updated>1620627950048</updated>
+      <workItem from="1620627951763" duration="7664000" />
     </task>
     <servers />
   </component>
@@ -53,21 +53,17 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="508" y="154" key="EditFileWatcherDialog" timestamp="1620582273045">
+    <state x="322" y="163" key="EditFileWatcherDialog" timestamp="1620634252440">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="508" y="154" key="EditFileWatcherDialog/0.0.1366.728@0.0.1366.728" timestamp="1620582273045" />
-    <state x="649" y="113" key="FileChooserDialogImpl" timestamp="1620582239311">
+    <state x="322" y="163" key="EditFileWatcherDialog/0.0.1366.728@0.0.1366.728" timestamp="1620634252440" />
+    <state x="463" y="122" key="FileChooserDialogImpl" timestamp="1620628784682">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="649" y="113" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1620582239311" />
-    <state x="372" y="0" key="SettingsEditor" timestamp="1620582274065">
+    <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1620628784682" />
+    <state x="186" y="9" key="SettingsEditor" timestamp="1620634253228">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="372" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1620582274065" />
-    <state x="602" y="118" key="com.intellij.ide.util.TipDialog" timestamp="1620581804855">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="602" y="118" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1620581804855" />
+    <state x="186" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1620634253228" />
   </component>
 </project>

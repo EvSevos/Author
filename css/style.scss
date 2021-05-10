@@ -225,7 +225,6 @@ header {
     margin-left: -15px;
 
 
-
     .card {
       padding-bottom: 0;
       border: none;
@@ -304,8 +303,9 @@ header {
         }
       }
     }
-    @include max-screen(576px){
-       .card {
+
+    @include max-screen(576px) {
+      .card {
         -ms-flex: 1 0 0%;
         flex: 1 0 0%;
         margin-right: 15px;
@@ -313,5 +313,107 @@ header {
         margin-left: 15px;
       }
     }
+  }
+}
+
+/*------------------------------------*/
+.contact {
+  background-image: url('../images/bg_contact_02.jpg');
+  background-size: cover;
+  padding: 100px 15px;
+
+  h2 {
+    color: #FFFFFF;
+    font-size: 42px;
+    font-family: $font-main;
+    margin-bottom: 110px;
+  }
+
+  .contact-soc {
+    h4 {
+      color: #ffffff;
+      font-family: $font-main;
+      font-size: 24px;
+      margin-bottom: 16px;
+    }
+
+    p {
+      font-size: 14px;
+      color: #bface2;
+
+      font-family: $font-main;
+      margin-bottom: 14px;
+
+      &:first-of-type {
+        margin-bottom: 44px;
+        color: #a7a7a7;
+      }
+    }
+
+    a {
+      display: inline-block;
+      text-decoration: none;
+      height: 42px;
+      width: 42px;
+      background-color: #3b5997;
+      border-radius: 50%;
+      margin-right: 12px;
+      margin-bottom: 24px;
+
+      &:before {
+        display: block;
+        content: "\f39e";
+        font-weight: 400;
+        font-family: "Font Awesome 5 Brands";
+        color: #FFFFFF;
+        font-size: 24px;
+        padding-left: 13px;
+        padding-top: 2px;
+      }
+
+      &:nth-of-type(2) {
+        background-color: #3ec2f3;
+
+        &:before {
+          content: "\f099";
+          padding-left: 10px;
+        }
+      }
+
+      &:nth-of-type(3) {
+        background-color: #e44c41;
+
+        &:before {
+          content: "\f0d5";
+          padding-left: 7px;
+        }
+      }
+    }
+
+  }
+
+  .forms {
+    input {
+      height: 44px;
+      border-radius: 2px;
+      border: none;
+      max-width: 100%;
+      margin-bottom: 32px;
+      @include max-screen(767px){
+        max-width: 100%;
+      }
+    }
+
+    textarea {
+      width: 100%;
+      height: 180px;
+      resize: none;
+      border-radius: 2px;
+      border: none;
+      margin-right: 15px;
+      margin-left: 15px;
+      outline: none;
+    }
+
   }
 }
